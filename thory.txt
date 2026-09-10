@@ -1,0 +1,52 @@
+What  is Form in HTML
+An HTML Form is used to collect information or data from users and send that data for processing. 
+
+
+Form Controls in HTML
+Form controls are the HTML elements that allow users to enter, select, or submit data inside an HTML form.
+
+
+
+
+Form Control
+HTML Tag
+Purpose
+Text Box
+<input type="text"> 
+Enter Text
+Password 
+<input type="password"> 
+Enter password 
+Email 
+<input type="email"> 
+Enter email 
+Radio Button 
+<input type="radio"> 
+Select one option
+Checkbox 
+<input type="checkbox"> 
+Select multiple options 
+Submit Button 
+<input type="submit"> 
+Submit the form 
+Reset Button 
+<input type="reset"> 
+Clear form data 
+Drop-down 
+<select> 
+Select from a list 
+Text Area 
+<textarea> 
+Enter multiple lines of text 
+File Upload 
+<input type="file"> 
+Upload a file 
+Color
+<input type="color">
+Set Color
+
+
+
+
+
+
